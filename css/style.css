@@ -50,6 +50,7 @@ body{
 .logo h1{
     background: -webkit-linear-gradient(rgba(9,121,9,1), rgba(46,204,113,1));
     -webkit-text-fill-color: transparent;
+      -webkit-background-clip: text;
 }
 
 form{
@@ -94,6 +95,7 @@ form{
 .material-icons{
     background: -webkit-linear-gradient(rgba(9,121,9,1), rgba(46,204,113,1));
     -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
 }
 
 .btnSubmit{
